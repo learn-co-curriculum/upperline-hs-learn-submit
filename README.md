@@ -7,7 +7,7 @@ For right now, we're just going to teach you one way to handle the labs you work
 
 ### Step 1:
 
-That very first light that says `Fork`? Just click the `Open in Nitrous` button at the very top. The light will automatically turn green. Don't worry what `Fork` means if you don't know, we'll get there.
+That very first light that says `Fork`? Just click the `Open` button at the very top. The light will automatically turn green. Don't worry what `Fork` means if you don't know, we'll get there.
 
 ### Step 2:
 
